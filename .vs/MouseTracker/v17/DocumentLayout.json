@@ -1,0 +1,78 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Cornel\\source\\repos\\MouseTracker\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9BB7A496-5EDB-4377-9D2A-0BC318034979}|MouseTracker.csproj|c:\\users\\cornel\\source\\repos\\mousetracker\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BB7A496-5EDB-4377-9D2A-0BC318034979}|MouseTracker.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BB7A496-5EDB-4377-9D2A-0BC318034979}|MouseTracker.csproj|c:\\users\\cornel\\source\\repos\\mousetracker\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9BB7A496-5EDB-4377-9D2A-0BC318034979}|MouseTracker.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BB7A496-5EDB-4377-9D2A-0BC318034979}|MouseTracker.csproj|c:\\users\\cornel\\source\\repos\\mousetracker\\gridmaker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BB7A496-5EDB-4377-9D2A-0BC318034979}|MouseTracker.csproj|solutionrelative:gridmaker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GridMaker.cs",
+              "DocumentMoniker": "C:\\Users\\Cornel\\source\\repos\\MouseTracker\\GridMaker.cs",
+              "RelativeDocumentMoniker": "GridMaker.cs",
+              "ToolTip": "C:\\Users\\Cornel\\source\\repos\\MouseTracker\\GridMaker.cs",
+              "RelativeToolTip": "GridMaker.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAcwBwAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-11T13:04:05.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Cornel\\source\\repos\\MouseTracker\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Cornel\\source\\repos\\MouseTracker\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-11T09:57:48.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Cornel\\source\\repos\\MouseTracker\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Cornel\\source\\repos\\MouseTracker\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAQwCYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-11T09:57:48.201Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
