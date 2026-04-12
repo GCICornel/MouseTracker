@@ -22,7 +22,7 @@ public class GridMaker
         // This method will display the grid information on the UI
         string screenWidth = this.screenWidth.ToString();
         string screenHeight = this.screenHeight.ToString();
-        // TODO - Make a text that shows the width and height found, maybe do a manual width and height and position if user wants specific zones
+        // TODO - Make a text that shows the width and height found, also do a manual width and height and position if user wants specific zones
         this.screenAspectRatio = this.screenWidth / this.screenHeight;
         if (this.screenAspectRatio > 1)
         {

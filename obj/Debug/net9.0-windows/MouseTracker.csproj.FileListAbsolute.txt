@@ -18,3 +18,6 @@ C:\Users\Cornel\source\repos\MouseTracker\obj\Debug\net9.0-windows\refint\MouseT
 C:\Users\Cornel\source\repos\MouseTracker\obj\Debug\net9.0-windows\MouseTracker.pdb
 C:\Users\Cornel\source\repos\MouseTracker\obj\Debug\net9.0-windows\MouseTracker.genruntimeconfig.cache
 C:\Users\Cornel\source\repos\MouseTracker\obj\Debug\net9.0-windows\ref\MouseTracker.dll
+C:\Users\Cornel\source\repos\MouseTracker\obj\Debug\net9.0-windows\MouseTracker.sourcelink.json
+C:\Users\Cornel\source\repos\MouseTracker\obj\Debug\net9.0-windows\AutoDefineWindow.g.cs
+C:\Users\Cornel\source\repos\MouseTracker\obj\Debug\net9.0-windows\AutoDefineWindow.baml
