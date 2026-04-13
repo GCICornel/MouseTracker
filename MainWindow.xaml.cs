@@ -61,9 +61,9 @@ namespace MouseTracker
         private void AutodefineScreenSize_Click(object sender, RoutedEventArgs e)
         {
             // will take the calcualated scren size and aspect ratio and show them to the user and then also ask user for next input
-            var win = new AutoDefineWindow();
-            win.Owner = this;   // Makes it stay on top of the parent window
-            win.ShowDialog();   // Blocks interaction with the parent until closed
+            var autoSizeWindow = new AutoDefineWindow(); // Create an instance of the new window
+            autoSizeWindow.Owner = this;   // Makes it stay on top of the parent window
+            autoSizeWindow.ShowDialog();   // Blocks interaction with the parent until closed
         }
     }
 }

@@ -17,7 +17,7 @@ public class GridMaker
      
 
     }
-    public void UIGridInfo()
+    public string UIGridInfo()
     {
         // This method will display the grid information on the UI
         string screenWidth = this.screenWidth.ToString();
@@ -27,7 +27,6 @@ public class GridMaker
         if (this.screenAspectRatio > 1)
         {
             this.screenResolution = $"{this.screenWidth} x {this.screenHeight} (Landscape)";
-
         }
         else if (this.screenAspectRatio < 1)
         {
@@ -37,8 +36,7 @@ public class GridMaker
         {
             this.screenResolution = $"{this.screenWidth} x {this.screenHeight} (Square)";
         }
-
-
+        return this.screenResolution;
     }
 
     public void GridDrawer(double screenWith, double screenHeight)

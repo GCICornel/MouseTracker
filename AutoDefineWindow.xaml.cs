@@ -22,6 +22,9 @@ namespace MouseTracker
         public AutoDefineWindow()
         {
             InitializeComponent();
+            var gridMaker = new GridMaker();
+            ScreenSizeText.Text = gridMaker.UIGridInfo();
+            AspectRatioText.Text = gridMaker.screenAspectRatio.ToString("F2");
         }
 
         private void Ok_Click(object sender, RoutedEventArgs e)
